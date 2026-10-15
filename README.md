@@ -50,7 +50,6 @@ If you cannot install software on your laptop, click *Code → Codespaces → Cr
 | `08_neural_networks/` | 8 | Data preparation and training of neural networks (TensorFlow/Keras) |
 | `09_missing_values/` | 9 | Imputation of missing values and evaluation of the imputation |
 | `data/` | – | All datasets, see [data/README.md](data/README.md) |
-| `archive/` | – | Material from the former R version of the course |
 
 ## Using the data in your own repository
 
