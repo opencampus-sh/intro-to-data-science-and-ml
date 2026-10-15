@@ -1,5 +1,15 @@
-.Rproj.user
-.Rhistory
-.RData
-.Ruserdata
-*.Rproj
+# Python environment (created by `uv sync`, never commit it)
+.venv/
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets and local settings
+.env
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
