@@ -1,6 +1,6 @@
 # Bakery sales dataset
 
-This is the dataset of the course project: forecasting the daily sales of a bakery branch in Kiel. It was provided by [meteolytix GmbH](https://www.meteolytix.de/), a Kiel company that produces sales forecasts for bakeries and retailers based on weather, holidays, school holidays, promotions and sales history.
+This is the dataset of the course project: forecasting the daily sales of a bakery branch in Kiel. It was provided by meteolytix GmbH, a former Kiel company that produced sales forecasts for bakeries and retailers based on weather, holidays, school holidays, promotions and sales history.
 
 The dataset consists of three files that can be joined on the date:
 
