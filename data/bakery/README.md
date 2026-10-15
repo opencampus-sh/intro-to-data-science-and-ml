@@ -46,7 +46,7 @@ The column names are in German. The tables below give the English meaning.
 | `Datum` | date | Date (`YYYY-MM-DD`) |
 | `Bewoelkung` | cloud cover | Mean cloud cover of the day in octas: 0 = clear sky, 8 = completely overcast |
 | `Temperatur` | temperature | Mean temperature of the day in °C |
-| `Windgeschwindigkeit` | wind speed | Mean wind speed of the day. The original documentation states m/s; with values between 3 and 35 (mean 11) the unit should be checked for plausibility – this would be very windy for m/s. |
+| `Windgeschwindigkeit` | wind speed | Mean wind speed of the day in m/s |
 | `Wettercode` | weather code | Weather code of the day following the WMO code for present weather (00–99), e.g. 61 = slight continuous rain. A list of the codes with descriptions is available [here](http://www.seewetter-kiel.de/seewetter/daten_symbole.htm). |
 
 ### Things to know
